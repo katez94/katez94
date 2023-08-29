@@ -9,21 +9,6 @@
  [![Telegram Badge](https://img.shields.io/badge/-katerinaazaikina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/katerinaazaikina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:z.e.040894@gmail.com)  
 
 
-### 🤝 Социальные сети:  
-<a href="https://github.com/katez94" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/ekaterina-zaikina-718954176/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/katerinaazaikina" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</td><td valign="top" width="50%">
-</td></tr></table>  
-<br/>  
-
-
 ### 🛠️ Language and Tools
 ![Header](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=selenium&logoColor=8cc4d7)
