@@ -9,7 +9,7 @@
  [![Telegram Badge](https://img.shields.io/badge/-katerinaazaikina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/katerinaazaikina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:z.e.040894@gmail.com)  
 
 
-### 🛠️ Language and Tools
+### 🛠️ Language and Tools I used:
 ![Header](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=selenium&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/TestNG-090909?style=for-the-badge&logo=testng&logoColor=8cc4d7)
